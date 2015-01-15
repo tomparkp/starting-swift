@@ -159,6 +159,7 @@ final class TMDB {
     
     class func fetchMovieList(list: MovieList, completion: MoviesCompletion) {
         let urlString = "\(TMDB_API_BASE_URL)/movie/\(list.queryPath)?api_key=\(TMDB_API_KEY)"
+        
         let request = NSURLRequest(URL: NSURL(string: urlString)!)
 
         // This method when passed the Main Queue will execute the completion closure on the Main Thread
@@ -169,6 +170,11 @@ final class TMDB {
             // SwiftyJSON makes JSON parsing much easier
             // Otherwise we would need a huge nest of if/let statements
             // Or we would need to use a more advanced approach (creating our own JSON parser)
+            if data == nil {
+                completion(result: Result.Failure)
+                return
+            }
+            
             let json = JSON(data: data)
             
             if let results = json["results"].array {

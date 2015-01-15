@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BBCB1459-4238-4374-819B-C289D83E34F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SwiftMovies</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE74AE6EAE7B6966ED093F3B537CAC3FF638DDC5</key>
+		<string>https://github.com/tompiarulli/starting-swift.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>3 - Act II/2 - Finished Project/SwiftMovies.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE74AE6EAE7B6966ED093F3B537CAC3FF638DDC5</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/tompiarulli/starting-swift.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE74AE6EAE7B6966ED093F3B537CAC3FF638DDC5</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE74AE6EAE7B6966ED093F3B537CAC3FF638DDC5</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Swift%20Workshop</string>
+		</dict>
+	</array>
+</dict>
+</plist>

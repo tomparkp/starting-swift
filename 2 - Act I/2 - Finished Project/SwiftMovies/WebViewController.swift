@@ -13,7 +13,7 @@ final class WebViewController: UIViewController {
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     @IBOutlet weak var webView: UIWebView!
     
-    var uNrlString: String?
+    var urlString: String?
     var titleString: String?
     
     override func viewDidLoad() {

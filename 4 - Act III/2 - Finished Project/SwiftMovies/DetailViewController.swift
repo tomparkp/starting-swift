@@ -27,15 +27,17 @@ final class DetailViewController: UIViewController {
     }
     
     private func loadMovieInfo() {
+        let ellipsis = "..."
+        
         // Setup our empty state (how the screen should look while loading)
         self.backdropImageView.image = nil
-        self.titleLabel.text = ""
-        self.navigationItem.title = ""
-        self.ratingLabel.text = ""
-        self.summaryLabel.text = ""
-        self.releaseDateLabel.text = ""
-        self.genresLabel.text = ""
-        self.runtimeLabel.text = ""
+        self.titleLabel.text = ellipsis
+        self.navigationItem.title = ellipsis
+        self.ratingLabel.text = ellipsis
+        self.summaryLabel.text = ellipsis
+        self.releaseDateLabel.text = ellipsis
+        self.genresLabel.text = ellipsis
+        self.runtimeLabel.text = ellipsis
         
         if let movie = self.movie {
             // Since title is not an optional, we know we will always

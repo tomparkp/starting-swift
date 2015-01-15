@@ -12,26 +12,4 @@ import UIKit
 final class WebViewController: UIViewController {
     @IBOutlet weak var activityIndicator: UIActivityIndicatorView!
     @IBOutlet weak var webView: UIWebView!
-    
-    var urlString = "http://twitter.com"
-    
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        self.webView.delegate = self
-        
-        if let url = NSURL(string: urlString) {
-            let request = NSURLRequest(URL: url)
-            self.webView.loadRequest(request)
-        }
-    }
-}
-
-extension WebViewController: UIWebViewDelegate {
-    func webViewDidStartLoad(webView: UIWebView) {
-        self.activityIndicator.startAnimating()
-    }
-    
-    func webViewDidFinishLoad(webView: UIWebView) {
-        self.activityIndicator.stopAnimating()
-    }
 }
