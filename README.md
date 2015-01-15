@@ -1,21 +1,23 @@
-# Swift First Cut - Intro for Objective-C Developers
+# Swift First Cut - Introduction for Objective-C Developers
 
 These are the project files and companion materials for the Philly Cocoa: Starting Swift workshop that took place in January 2015.
 
-The interactive (better) version of the slides can be found at: http://slides.com/tompiarulli/starting-swift/
+The interactive (better) version of the slides can be found at: 
+
+http://slides.com/tompiarulli/starting-swift/
 
 ## The Hosts
 
-// Image
+<img src=https://github.com/tompiarulli/starting-swift/raw/master/Images/tom.jpeg" width="100" />
 **Instructor - Tom Piarulli**
 @tompark_io
 tompark.io
 
-// Image
+<img src=https://github.com/tompiarulli/starting-swift/raw/master/Images/amit.jpeg" width="100"/>
 **TA - Amit Rao**
 @amitmrao
 
-// Image
+<img src=https://github.com/tompiarulli/starting-swift/raw/master/Images/kotaro.jpeg" width="100" />
 **TA - Kotaro Fujita**
 @wild37
 tomatoboy.co
@@ -25,7 +27,7 @@ Learn about Indy Hall
 
 ## The Project - Swift Movies
 
-// Image
+<img src="https://github.com/tompiarulli/starting-swift/raw/master/Images/screenshot.png" width="800" />
 
 The goal of the workshop was to create something:
 * **Functional** - not a "proof-of-concept" or "micro-app", an actual app
