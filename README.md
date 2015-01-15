@@ -2,9 +2,7 @@
 
 These are the project files and companion materials for the Philly Cocoa: Starting Swift workshop that took place in January 2015.
 
-The interactive (better) version of the slides can be found at: 
-
-http://slides.com/tompiarulli/starting-swift/
+The interactive (better) version of the slides can be viewed [here](http://slides.com/tompiarulli/starting-swift/).
 
 ## The Hosts
 
@@ -13,7 +11,6 @@ Special thanks to our wonderful hosts.
 **Instructor - Tom Piarulli**
 * Twitter: [@tompark_io](http://twitter.com/tompark_io)
 * Website: http://tompark.io
-
 
 **TA - Amit Rao**
 * Twitter: [@amitmrao](http://twitter.com/amitmrao)
