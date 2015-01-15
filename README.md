@@ -7,37 +7,27 @@ http://slides.com/tompiarulli/starting-swift/
 
 ## The Hosts
 
-<img src="https://raw.githubusercontent.com/tompiarulli/starting-swift/master/Images/tom.jpeg" width="100"/>
+Special thanks to our wonderful hosts.
 
 **Instructor - Tom Piarulli**
+* Twitter: [@tompark_io](http://twitter.com/wild37)
+* Website: http://tompark.io
 
-@tompark_io
-
-tompark.io
-
-<img src="https://raw.githubusercontent.com/tompiarulli/starting-swift/master/Images/amit.jpeg" width="100"/>
 
 **TA - Amit Rao**
-
-@amitmrao
-
-<img src="https://raw.githubusercontent.com/tompiarulli/starting-swift/master/Images/kotaro.jpeg" width="100"/>
+* Twitter: [@amitmrao](http://twitter.com/amitmrao)
 
 **TA - Kotaro Fujita**
-
-@wild37
-
-tomatoboy.co
-
-<img src="https://raw.githubusercontent.com/tompiarulli/starting-swift/master/Images/indy-hall.png" width="100"/>
+* Twitter: [@wild37](http://twitter.com/wild37)
+* Website: http://tomatoboy.co
 
 **Venue Sponsor - Indy Hall**
-
-Learn about Indy Hall
+* Twitter: [@indyhall](http://twitter.com/indyhall)
+* Website: http://indyhall.org
 
 ## The Project - Swift Movies
 
-<img src="https://github.com/tompiarulli/starting-swift/raw/master/Images/screenshot.png" width="800" />
+<img src="https://github.com/tompiarulli/starting-swift/raw/master/screenshot.png" width="800" />
 
 The goal of the workshop was to create something:
 
